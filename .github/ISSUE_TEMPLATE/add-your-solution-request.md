@@ -1,5 +1,5 @@
 ---
-name: add your solution request
+name: Add your solution request
 about: Suggest your solution to a CP (Competitive programming) question.
 title: ''
 labels: ''
