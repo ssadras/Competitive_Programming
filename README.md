@@ -8,6 +8,7 @@ CodeShark:
 | 19 | [Second day of 3rd level of 24th Iran computer olampiad](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam19)  |
 | 20 | [First day of 3rd level of 25th Iran computer olampiad](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam20)  |
 | 21 | [Second day of 3rd level of 25th Iran computer olampiad](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam21)  |
+| 22 | [First day of 3rd level of 26th Iran computer olampiad](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam22)  |
 
 
 
@@ -27,6 +28,7 @@ CodeShark:
 | 19 | [روز دوم مرحله 3 دوره 24ام المپیاد کامپیوتر ایران](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam19)  |
 | 20 | [روز اول مرحله 3 دوره 25ام المپیاد کامپیوتر ایران](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam20)  |
 | 21 | [روز دوم مرحله 3 دوره 25ام المپیاد کامپیوتر ایران](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam21)  |
+| 22 | [روز اول مرحله 3 دوره 26ام المپیاد کامپیوتر ایران](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam22)  |
 
 
 اگر شما میتوانید به ما در اضافه کردن راه حل ها کمک کنید، کد خودتان رو در بخش pull request ارسال کنید.
