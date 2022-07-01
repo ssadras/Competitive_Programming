@@ -18,9 +18,9 @@ Quera (Olymiads section):
 
 | Question id | Name | Question link | Solution Link |
 | :---: | :---: | :---: | :---: |
-| 443 | Returned check | [Question](https://quera.org/problemset/443/) | [Solution](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
-| 9801 | Pallet | [Question](https://quera.org/problemset/9801/) | [Solution](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/9801.cpp) |
-| 18079 | Mojtaba and card game | [Question](https://quera.org/problemset/18079/) | [Solution](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
+| 443 | Returned check | [Question](https://quera.org/problemset/443/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
+| 9801 | Pallet | [Question](https://quera.org/problemset/9801/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/9801.cpp) |
+| 18079 | Mojtaba and card game | [Question](https://quera.org/problemset/18079/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
 
 
 
@@ -31,6 +31,15 @@ Quera (Universities section):
 | :---: | :---: | :---: | :---: |
 | 589 | Factorial | [Question](https://quera.org/problemset/589/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.cpp), [Python](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.py) |
 | 615 | Birth date | [Question](https://quera.org/problemset/615/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/615.cpp) |
+
+
+
+
+Quera (Contests section):
+
+| Question id | Name | Question link | Solution Link |
+| :---: | :---: | :---: | :---: |
+| 72875 | Juj | [Question](https://quera.org/problemset/72875/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/72875.cpp) |
 
 
 
@@ -59,9 +68,9 @@ CodeShark:
 
 | آیدی سوال | نام سوال | لینک سوال | لینک جواب |
 | :---: | :---: | :---: | :---: |
-| 443 | چک برگشتی | [سوال](https://quera.org/problemset/443/) | [راه حل](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
-| 9801 | پالت | [سوال](https://quera.org/problemset/9801/) | [راه حل](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/9801.cpp) |
-| 18079 | مجتبی و کارت بازی | [سوال](https://quera.org/problemset/18079/) | [راه حل](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
+| 443 | چک برگشتی | [سوال](https://quera.org/problemset/443/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
+| 9801 | پالت | [سوال](https://quera.org/problemset/9801/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/9801.cpp) |
+| 18079 | مجتبی و کارت بازی | [سوال](https://quera.org/problemset/18079/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
 
 
 
@@ -72,6 +81,16 @@ CodeShark:
 | :---: | :---: | :---: | :---: |
 | 589 | فاکتوریل | [سوال](https://quera.org/problemset/589/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.cpp), [Python](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.py) |
 | 615 | تاریخ تولد | [سوال](https://quera.org/problemset/615/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/615.cpp) |
+
+
+
+
+کوئرا (سوالات مسابقات):
+
+| آیدی سوال | نام سوال | لینک سوال | لینک جواب |
+| :---: | :---: | :---: | :---: |
+| 72875 | جوج | [سوال](https://quera.org/problemset/72875/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/72875.cpp) |
+
 
 
 
