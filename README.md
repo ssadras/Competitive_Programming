@@ -21,7 +21,6 @@ Quera (Olymiads section):
 | 443 | Returned check | [Question](https://quera.org/problemset/443/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
 | 9801 | Pallet | [Question](https://quera.org/problemset/9801/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/9801.cpp) |
 | 18079 | Mojtaba and card game | [Question](https://quera.org/problemset/18079/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
-| 32473 | Zorro sells the permution | [Question](https://quera.org/problemset/32473/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/32473.cpp) |
 
 
 
@@ -40,7 +39,8 @@ Quera (Contests section):
 
 | Question id | Name | Question link | Solution Link |
 | :---: | :---: | :---: | :---: |
-| 72875 | Juj | [Question](https://quera.org/problemset/72875/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/72875.cpp) |
+| 32473 | Zorro sells the permutation | [Question](https://quera.org/problemset/32473/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Contests/32473.cpp) |
+| 72875 | Juj | [Question](https://quera.org/problemset/72875/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Contests/72875.cpp) |
 
 
 
@@ -72,8 +72,6 @@ CodeShark:
 | 443 | چک برگشتی | [سوال](https://quera.org/problemset/443/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
 | 9801 | پالت | [سوال](https://quera.org/problemset/9801/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/9801.cpp) |
 | 18079 | مجتبی و کارت بازی | [سوال](https://quera.org/problemset/18079/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
-| 32473 | زورو دنباله میفروشد | [سوال](https://quera.org/problemset/32473/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/32473.cpp) |
-
 
 
 
@@ -91,7 +89,9 @@ CodeShark:
 
 | آیدی سوال | نام سوال | لینک سوال | لینک جواب |
 | :---: | :---: | :---: | :---: |
-| 72875 | جوج | [سوال](https://quera.org/problemset/72875/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/72875.cpp) |
+| 72875 | جوج | [سوال](https://quera.org/problemset/72875/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Contests/72875.cpp) |
+| 32473 | زورو دنباله میفروشد | [سوال](https://quera.org/problemset/32473/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Contests/32473.cpp) |
+
 
 
 
