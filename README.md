@@ -29,7 +29,7 @@ Quera (Universities section):
 
 | Question id | Name | Question link | Solution Link |
 | :---: | :---: | :---: | :---: |
-| 589 | Factorial | [Question](https://quera.org/problemset/589/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.cpp) [Python](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.py) |
+| 589 | Factorial | [Question](https://quera.org/problemset/589/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.cpp), [Python](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.py) |
 | 615 | Birth date | [Question](https://quera.org/problemset/615/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/615.cpp) |
 
 
@@ -70,7 +70,7 @@ CodeShark:
 
 | آیدی سوال | نام سوال | لینک سوال | لینک جواب |
 | :---: | :---: | :---: | :---: |
-| 589 | فاکتوریل | [سوال](https://quera.org/problemset/589/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.cpp) [Python](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.py) |
+| 589 | فاکتوریل | [سوال](https://quera.org/problemset/589/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.cpp), [Python](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/589.py) |
 | 615 | تاریخ تولد | [سوال](https://quera.org/problemset/615/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/615.cpp) |
 
 
