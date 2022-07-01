@@ -14,6 +14,16 @@ CodeShark:
 
 
 
+Quera (Olymiads section):
+
+| Question id | Name | Question link | Solution Link |
+| :---: | :---: | :---: | :---: |
+| 443 | Returned check | [Question](https://quera.org/problemset/443/) | [Solution](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
+| 18079 | Mojtaba and card game | [Question](https://quera.org/problemset/18079/) | [Solution](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
+
+
+
+
 If you can help us add more solutions don't hesitate to pull request your codes.
 We appreciate your help.
 
@@ -31,6 +41,17 @@ CodeShark:
 | 21 | [روز دوم مرحله 3 دوره 25ام المپیاد کامپیوتر ایران](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam21)  |
 | 22 | [روز اول مرحله 3 دوره 26ام المپیاد کامپیوتر ایران](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam22)  |
 | 23 | [روز دوم مرحله 3 دوره 26ام المپیاد کامپیوتر ایران](https://github.com/ssadras/Competitive_Programming/tree/main/Codeshark/Exam23)  |
+
+
+
+کوئرا (سوالات المپیاد):
+
+| آیدی سوال | نام سوال | لینک سوال | لینک جواب |
+| :---: | :---: | :---: | :---: |
+| 443 | چک برگشتی | [سوال](https://quera.org/problemset/443/) | [راه حل](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
+| 18079 | مجتبی و کارت بازی | [سوال](https://quera.org/problemset/18079/) | [راه حل](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
+
+
 
 
 اگر شما میتوانید به ما در اضافه کردن راه حل ها کمک کنید، کد خودتان رو در بخش pull request ارسال کنید.
