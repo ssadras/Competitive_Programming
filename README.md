@@ -21,6 +21,7 @@ Quera (Olymiads section):
 | 443 | Returned check | [Question](https://quera.org/problemset/443/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
 | 9801 | Pallet | [Question](https://quera.org/problemset/9801/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/9801.cpp) |
 | 18079 | Mojtaba and card game | [Question](https://quera.org/problemset/18079/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
+| 32473 | Zorro sells the permution | [Question](https://quera.org/problemset/32473/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/32473.cpp) |
 
 
 
@@ -71,6 +72,7 @@ CodeShark:
 | 443 | چک برگشتی | [سوال](https://quera.org/problemset/443/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/443.cpp) |
 | 9801 | پالت | [سوال](https://quera.org/problemset/9801/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/9801.cpp) |
 | 18079 | مجتبی و کارت بازی | [سوال](https://quera.org/problemset/18079/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/18079.cpp) |
+| 32473 | زورو دنباله میفروشد | [سوال](https://quera.org/problemset/32473/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Olympiads/32473.cpp) |
 
 
 
