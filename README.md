@@ -89,8 +89,8 @@ CodeShark:
 
 | آیدی سوال | نام سوال | لینک سوال | لینک جواب |
 | :---: | :---: | :---: | :---: |
-| 72875 | جوج | [سوال](https://quera.org/problemset/72875/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Contests/72875.cpp) |
 | 32473 | زورو دنباله میفروشد | [سوال](https://quera.org/problemset/32473/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Contests/32473.cpp) |
+| 72875 | جوج | [سوال](https://quera.org/problemset/72875/) | [C++](https://github.com/ssadras/Competitive_Programming/blob/main/Quera/Contests/72875.cpp) |
 
 
 
