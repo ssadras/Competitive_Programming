@@ -8,8 +8,8 @@
 using namespace std;
 
 // Pragmas here
-//#pragma GCC optimize("Ofast,unroll-loops")
-//#pragma GCC target("avx2,tune=native")
+#pragma GCC optimize("Ofast,unroll-loops")
+#pragma GCC target("avx2,tune=native")
 
 // Templates here
 template<typename T1, typename T2, typename T3>
